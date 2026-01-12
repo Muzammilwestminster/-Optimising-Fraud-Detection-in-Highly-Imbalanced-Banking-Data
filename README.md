@@ -1,2 +1,0 @@
-# -Optimising-Fraud-Detection-in-Highly-Imbalanced-Banking-Data
-Empirical analysis of fraudulent bank account applications using the NeurIPS Bank Account Fraud (BAF) dataset, supported by R code that performs data cleaning, class rebalancing, logistic regression and Random Forest modelling, and evaluation of model performance and feature importance for both digital identity and demographic predictors.
